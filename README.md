@@ -9,7 +9,7 @@ Follow these steps to get your RaspberryPi running:
 * Attach the ethernet cable to the hub and RaspberryPi
 * Unpack and plug in the power supply
 
-![image](./images/Pi2View.jpg =500x)
+![image](./images/Pi2View.jpg)
 
 
 ## Determining the IP address of the RaspberryPi
