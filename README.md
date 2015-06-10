@@ -1,13 +1,13 @@
 # Hackathon Overview
-In this lab/hackathon we will be going through sensor labs to demonstrate connecting real world sensors to the middleware layer. You can try a 
+In this lab/hackathon we will be going through sensor labs to demonstrate connecting real world sensors to the middleware layer. Get your RaspberryPi up and running, and then try the labs referenced at the end of this overview.
 
 ## Getting Started
 Follow these steps to get your RaspberryPi running:
 
 * Unpack the RaspberryPi from the box
-* Insert the SDHC card
-* Attach the ethernet cable to the hub and RaspberryPi
-* Unpack and plug in the power supply
+* Insert the SDHC card (<span style="color:red">6</span>)
+* Attach the ethernet cable to the hub and RaspberryPi (<span style="color:red">2</span>)
+* Unpack and plug in the power supply (<span style="color:red">5</span>)
 
 ![image](./images/Pi2View.jpg)
 
