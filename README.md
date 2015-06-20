@@ -69,6 +69,7 @@ Run the script after updating the geometry dimensions if desired, and then run t
 You can now connect to the vncserver instance using the pivnc4m password. If your Pi's IP is 192.168.1.189, you would connect to it using a vnc url like vnc://192.168.2.189:5901. On a MAC, you could enter a URL into the Finder's "Connect to Server..." dialog. On Fedora/RHEL, you can use the Internet/Remote Viewer application.
 
 # Project Repositories
+There are two git repositories that we will be working with in this lab. A summary of each and links to the repo readme files can be found below. Note that the projects can be found on the system image of your RaspberryPi, but you will probably want to update it by doing a `git pull` from within each repository to pickup any last minute changes.
 
 ## Passive Infrared Motion Sensor, HC-SR501
 The [Passive Infrared Motion Sensor, HC-SR501](https://github.com/burrsutter/rpi_HC-SR501/blob/master/README.md) project connects an HC-SR501 infrared sensor to the RaspberryPi GPIO pins to allow for motion detection using either polling or trigger event notifications. Follow the above link to the project README to get started.
